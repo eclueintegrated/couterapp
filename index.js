@@ -1,0 +1,12 @@
+// document.getElementById("count").innerText = 5
+
+// let count = 5
+// count = count + 1
+// console.log(count)
+
+// intialize the count as 0
+// 
+
+
+
+
